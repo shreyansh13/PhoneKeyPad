@@ -1,0 +1,14 @@
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\bin\Debug\net8.0\PhoneKeyPad.exe
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\bin\Debug\net8.0\PhoneKeyPad.deps.json
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\bin\Debug\net8.0\PhoneKeyPad.runtimeconfig.json
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\bin\Debug\net8.0\PhoneKeyPad.dll
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\bin\Debug\net8.0\PhoneKeyPad.pdb
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.AssemblyInfoInputs.cache
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.AssemblyInfo.cs
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.csproj.CoreCompileInputs.cache
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.dll
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\refint\PhoneKeyPad.dll
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.pdb
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\PhoneKeyPad.genruntimeconfig.cache
+D:\Repos\FHL\IronSoftware\PhoneKeyPad\PhoneKeyPad\obj\Debug\net8.0\ref\PhoneKeyPad.dll
